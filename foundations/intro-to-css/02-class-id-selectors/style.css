@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.podd {
+    background-color: hsl(0, 100%, 82%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.p2div2font {
+    font-size: 24px;
+}
+
+#div1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+
+#div2 {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
+
