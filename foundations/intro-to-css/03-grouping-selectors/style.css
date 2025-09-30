@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.blacknwhite {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.blacknyellow {
+    background-color: #ffff00;
+}
+
+.blacknwhite,
+.blacknyellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
